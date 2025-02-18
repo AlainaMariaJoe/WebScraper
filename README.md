@@ -6,7 +6,4 @@ A simple web scraper built with **Python** and **BeautifulSoup** to extract text
 - Saves output to a file  
 - Handles multiple HTML elements
 
-Input:
-https://books.toscrape.com/
 
-Text saved in content.txt
